@@ -80,7 +80,6 @@ Designed By: CreativeCary
 body {
 	background: #eeeff1;
 	font-size: 16px; /* PIXEL FALLBACK */
-	font-size: 1.6rem;
 	line-height: 1.5;
 	color: #8f96a9;
 }
